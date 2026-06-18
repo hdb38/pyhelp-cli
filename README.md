@@ -20,5 +20,4 @@ pip install -e .
 4.开始使用
 ```bash
 pyhelp --help
-...
 ```
