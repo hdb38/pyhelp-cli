@@ -1,6 +1,6 @@
 # pyhelp-cli
 ## 这是什么？
-pyhelp-cli 是我自己写的 Python 命令行工具，用来快速创建代码模板、批量管理文件，支持 Manim、算法刷题模板一键生成。
+pyhelp-cli 是我自己写的 Python 命令行工具，用来快速创建代码模板、批量管理文件，支持 Manim、Numpy模板一键生成。
 
 ## 运行前置条件
 只需要安装 Python 环境，不需要额外复杂软件。
